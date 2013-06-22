@@ -1,0 +1,13 @@
+{
+	"name": "dg/mysql-check",
+	"description": "Checks a MySQL database for orphaned records or invalid foreign keys, i.e., keys pointing to missing rows.",
+	"keywords": ["mysql"],
+	"homepage": "https://github.com/dg/MySQL-check",
+	"license": ["BSD-3-Clause"],
+	"authors": [
+		{
+			"name": "David Grudl",
+			"homepage": "http://davidgrudl.com"
+		}
+	]
+}
