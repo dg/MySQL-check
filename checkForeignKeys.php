@@ -8,7 +8,7 @@
  * @license    New BSD License
  * @version    1.0
  */
-function checkForeignKeys(mysqli $db, $database = NULL)
+function checkForeignKeys(mysqli $db, $database = null)
 {
 	$keys = $db->query('
 		SELECT TABLE_SCHEMA, TABLE_NAME, COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME
