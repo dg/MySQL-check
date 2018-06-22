@@ -12,8 +12,4 @@ Or without parameter it checks all databases:
 
 	checkForeignKeys($mysqli);
 
-
------
-Project at GitHub: http://github.com/dg/MySQL-check
-
-(c) David Grudl, 2008, 2013 (http://davidgrudl.com)
+If you like it, **[please make a donation now](https://nette.org/make-donation?to=mysql-check)**. Thank you!
